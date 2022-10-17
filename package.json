@@ -4,11 +4,9 @@
   },
   "name": "hexlet",
   "description": "Мой первый проект на Хекслете",
-  
   "type": "module",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Hamsterrific/hexlet-js/issues"
   },
-  "homepage": "https://github.com/Hamsterrific/hexlet-js#readme"
+  "homepage": "https://github.com/Hamsterrific/hexlet-js#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
 }
